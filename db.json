@@ -1,0 +1,1484 @@
+{
+  "students": [
+    {
+      "id": "06f5ba61-fab5-42e6-9802-3c9a8889322e",
+      "name_eng": "Zain Assem",
+      "name_arb": "زين عاصم",
+      "bDate": "2018-01-01",
+      "school": "UNKNOWN",
+      "overAllMem": "عم وتبارك",
+      "newMem": "سورة القلم"
+    },
+    {
+      "id": "0708ee58-aab0-4401-8eb8-dbb05b334045",
+      "name_eng": "Adham Ahmed",
+      "name_arb": "أدهم أحمد",
+      "bDate": "2015-01-01",
+      "school": "UNKNOWN",
+      "overAllMem": "من سورة التكوير حتى سورة الناس",
+      "newMem": "من اية ٣٦ لاخر سورة النبا"
+    },
+    {
+      "id": "22525387-ae80-4285-be2e-eff9b88bd1d2",
+      "name_eng": "Mohamed Osama",
+      "name_arb": "محمد أسامة",
+      "bDate": "2013-01-01",
+      "school": "مدرسة اسحاق النديم",
+      "overAllMem": "القيامة إلى الأخر",
+      "newMem": "نصف الأخر من الإنسان"
+    },
+    {
+      "id": "23f9b7f5-2a19-493e-a23a-6cfd03688379",
+      "name_eng": "Hamza Mahmoud",
+      "name_arb": "حمزة محمود",
+      "bDate": "2014-01-01",
+      "school": "نور الاسلام",
+      "overAllMem": "من الناس للبلد",
+      "newMem": "ما قبل سورة البلد"
+    },
+    {
+      "id": "3d050d9c-c89f-4897-8a92-a279aad7281b",
+      "name_eng": "Malek Mohamed",
+      "name_arb": "مالك محمد",
+      "bDate": "2016-07-20",
+      "school": "مدرسة بورسعيد",
+      "overAllMem": "ما وراء المطففين",
+      "newMem": "اول ١٦ اية من سورة عبس"
+    },
+    {
+      "id": "441fba6e-0a0a-4e29-8537-6bb42003d510",
+      "name_eng": "Adam Abd El-rahman",
+      "name_arb": "ادم عبدالرحمن",
+      "bDate": "2012-05-10",
+      "school": "الشاطبي",
+      "overAllMem": "من القارعة للاخر",
+      "newMem": "ما قبل القارعة"
+    },
+    {
+      "id": "4ba00176-2315-4edc-a25c-c3711b835fbc",
+      "name_eng": "Ezz Eldin Mahmoud",
+      "name_arb": "عز الدين محمود",
+      "bDate": "2013-05-14",
+      "school": "مدرسة فكتوريا",
+      "overAllMem": "المفصل + اول جزأين من البقرة",
+      "newMem": "من ربع تلك الرسل"
+    },
+    {
+      "id": "5f8e7b93-0148-4a76-89cd-ef235f283301",
+      "name_eng": "Fares Sabry",
+      "name_arb": "فارس صبري",
+      "bDate": "2014-01-01",
+      "school": "نور الاسلام",
+      "overAllMem": "ما وراء الإنشقاق",
+      "newMem": "من ٦ ل ١٥ من سورة الانشقاق"
+    },
+    {
+      "id": "600d2da5-8356-47af-a01c-16c3d6450d42",
+      "name_eng": "Eyad Ahmed",
+      "name_arb": "إياد احمد",
+      "bDate": "2014-11-17",
+      "school": "مدرسة الليسيه الحرية",
+      "overAllMem": "من الفيل للناس",
+      "newMem": "ما قبل الفيل"
+    },
+    {
+      "id": "60a37f02-6dc7-4d04-b50a-2417ce0da6dd",
+      "name_eng": "Youssef Ahmed",
+      "name_arb": "يوسف أحمد",
+      "bDate": "2014-01-01",
+      "school": "UNKNOWN",
+      "overAllMem": "من سورة العصر حتى سورة الناس",
+      "newMem": "ما قبل سورة العصر"
+    },
+    {
+      "id": "6f316354-a04b-4ff4-abac-bb53fec7b72d",
+      "name_eng": "Yaseen Sabry",
+      "name_arb": "يس صبري",
+      "bDate": "2019-01-01",
+      "school": "نور الاسلام",
+      "overAllMem": "من سورة الكافرون لسورة الناس",
+      "newMem": "سورة الكافرون"
+    },
+    {
+      "id": "71115ec5-7e70-4c4b-b9b0-012afeb38c4f",
+      "name_eng": "Abd-Elrahman Hussein",
+      "name_arb": "عبدالرحمن حسين",
+      "bDate": "2011-01-01",
+      "school": "الشاطبي",
+      "overAllMem": "الممتحنة إلى الناس",
+      "newMem": "بداية الحشر"
+    },
+    {
+      "id": "73da38bd-28c0-4e19-aef4-f36af9e50ce6",
+      "name_eng": "Malek Marouf",
+      "name_arb": "مالك معروف",
+      "bDate": "2014-01-01",
+      "school": "نور الاسلام",
+      "overAllMem": "البينة إلى الناس",
+      "newMem": "من ٥ الى ٨ سورة البينة"
+    },
+    {
+      "id": "8c03dc59-4701-4f88-a47b-07bc5cea0e9c",
+      "name_eng": "Zeyad",
+      "name_arb": "زياد صاحب فارس",
+      "bDate": "2014-12-19",
+      "school": "Unknown",
+      "overAllMem": "من الزلزلة للاخر",
+      "newMem": "من اية ٦ لاخر سورة البينة"
+    },
+    {
+      "id": "9a672d5d-dfa9-4b98-ab5f-a3057bb5449e",
+      "name_eng": "Omar Emad",
+      "name_arb": "عمر عماد",
+      "bDate": "2014-01-01",
+      "school": "مدرسة النصر بنين",
+      "overAllMem": "3 أجزاء",
+      "newMem": "ما قبل سورة الممتحنة"
+    },
+    {
+      "id": "a5b4ad36-31a9-4de3-9dcd-d9e361b3426c",
+      "name_eng": "Mo'men Sabry",
+      "name_arb": "مؤمن صبري",
+      "bDate": "2016-01-01",
+      "school": "نور الاسلام",
+      "overAllMem": "العاديات وما وراءها",
+      "newMem": "البينه من 1 إلى 4"
+    },
+    {
+      "id": "b1a6d201-d4e0-4101-b71e-d3252f11bbc7",
+      "name_eng": "Asser",
+      "name_arb": "آسر",
+      "bDate": "0001-01-01",
+      "school": "UNKNOWN",
+      "overAllMem": "اخر صفحة",
+      "newMem": "الصفحة قبل الاخيرة"
+    },
+    {
+      "id": "b7a94403-1171-450f-9be7-52e6df2a1900",
+      "name_eng": "Omar khaled mohamed",
+      "name_arb": "عمر خالد محمد",
+      "bDate": "2011-09-06",
+      "school": "E.b.s",
+      "overAllMem": "من نوح إلى الناس",
+      "newMem": "الصفحة الثانية من الملك"
+    },
+    {
+      "id": "cd898c70-2dc8-4327-b515-c204bfade07c",
+      "name_eng": "Adam Bassem",
+      "name_arb": "ادم باسم",
+      "bDate": "2013-02-22",
+      "school": "Leaders language school",
+      "overAllMem": "اخر ٦ سور",
+      "newMem": "سورة الكافرون"
+    },
+    {
+      "id": "db4e0b85-4a51-4cf8-b509-64c4037a9dd3",
+      "name_eng": "Fares Ahmed",
+      "name_arb": "فارس احمد",
+      "bDate": "2012-01-01",
+      "school": "الشاطبي",
+      "overAllMem": "من سورة التحريم لسورة الناس",
+      "newMem": "اية ٦ و٧ من سورة الطلاق"
+    },
+    {
+      "id": "ddc24872-f9ad-4b38-bfb1-d76c753844ee",
+      "name_eng": "Mohamed Ahmed",
+      "name_arb": "محمد احمد",
+      "bDate": "2025-01-20",
+      "school": "مدرسة الليسيه الحرية",
+      "overAllMem": "جزء عم الا التكوير والمطففين",
+      "newMem": "المطففين من 1 إلى 17"
+    },
+    {
+      "id": "f635ef61-4597-4a77-ae00-43df01373882",
+      "name_eng": "Ali Ahmed",
+      "name_arb": "علي أحمد",
+      "bDate": "2017-01-01",
+      "school": "UNKNOWN",
+      "overAllMem": "اخر صفحة",
+      "newMem": "الصفحة قبل الاخيرة"
+    }
+  ],
+  "student_logs": [
+    {
+      "id": "06f5ba61-fab5-42e6-9802-3c9a8889322e",
+      "logs": [
+        {
+          "id": "d6c64739-6cf0-48e0-b469-e7924d84df52@2025-10-17",
+          "teacherId": "b87fdb04-2fe1-45f8-a99c-02c34c694110",
+          "teacherUserName": "Ahmed Ehab",
+          "revDone": "النبأ",
+          "revGrade": "5/10",
+          "time": "2025-10-17T11:39:59.048Z",
+          "notes": "إعادة النبأ من 17 ل 40"
+        },
+        {
+          "id": "97e332ac-61ff-4760-8563-9d9a1f64b5cd@2025-10-17",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca398aa5",
+          "teacherUserName": "Mohamed Amr",
+          "memDone": "سورة نوح من 20 -إلى الآخر ",
+          "memGrade": "8",
+          "time": "2025-10-17T11:21:06.681Z",
+          "notes": "null"
+        },
+        {
+          "id": "a7673ecb-0433-4956-8c1b-2f3a619018f1@2025-10-10",
+          "teacherId": "b87fdb04-2fe1-45f8-a99c-02c34c694110",
+          "teacherUserName": "Ahmed Ehab",
+          "revDone": "سورة النبأ",
+          "revGrade": "4/10",
+          "time": "2025-10-10T12:15:08.520Z",
+          "notes": "إعادة سورة النبأ"
+        },
+        {
+          "id": "1c531b96-1052-4af3-a397-e42156e65878@2025-10-10",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca398aa5",
+          "teacherUserName": "Mohamed Amr",
+          "memDone": "سورة نوح من ٢٠ إلى ٢٨",
+          "memGrade": "4",
+          "time": "2025-10-10T11:57:47.841Z",
+          "notes": "null"
+        },
+        {
+          "id": "cab6eae1-9a2e-4c0a-bc57-e7bd348c9e92@2025-10-03",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca398aa5",
+          "teacherUserName": "Mohamed Amr",
+          "memDone": "سورة نوح من ٢٠ إلى ٢٨",
+          "memGrade": "5",
+          "time": "2025-10-03T11:47:54.185Z",
+          "notes": "null"
+        },
+        {
+          "id": "02b095ac-118f-4e77-9072-5fa220d55076@2025-10-03",
+          "teacherId": "b87fdb04-2fe1-45f8-a99c-02c34c694110",
+          "teacherUserName": "Ahmed Ehab",
+          "revDone": "اول صفحة من النبأ",
+          "revGrade": "4/10",
+          "time": "2025-10-03T11:23:20.467Z",
+          "notes": "null"
+        },
+        {
+          "id": "a4b75e90-783c-4216-9c4c-9fc6aec8b392@2025-08-22",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca398aa5",
+          "teacherUserName": "Mohamed Amr",
+          "memDone": "من ٢٨ إلى ٤٣",
+          "memGrade": "٧",
+          "time": "2025-08-22T12:37:47.965Z",
+          "notes": "null"
+        }
+      ]
+    },
+    {
+      "id": "0708ee58-aab0-4401-8eb8-dbb05b334045",
+      "logs": [
+        {
+          "id": "be7c5d60-b39d-44d8-96f7-923d0a1ce374@2025-08-29",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca398aa5",
+          "teacherUserName": "Mohamed Amr",
+          "memDone": "سورة النبأ من ١٢ إلى ٣٠",
+          "memGrade": "١٠",
+          "time": "2025-08-29T11:04:49.613Z",
+          "notes": "null"
+        },
+        {
+          "id": "a7e56cf7-b42b-4765-8cd8-09341ec97ce5@2025-08-29",
+          "teacherId": "b87fdb04-2fe1-45f8-a99c-02c34c694110",
+          "teacherUserName": "Ahmed Ehab",
+          "revDone": "قريش والماعون والكوثر",
+          "revGrade": "10/10",
+          "time": "2025-08-29T11:42:39.950Z",
+          "notes": "null"
+        },
+        {
+          "id": "bbd9de9d-80ac-45ac-b3da-17469fe66ad2@2025-09-05",
+          "teacherId": "b87fdb04-2fe1-45f8-a99c-02c34c694110",
+          "teacherUserName": "Ahmed Ehab",
+          "revDone": "القارعة",
+          "revGrade": "2/10",
+          "time": "2025-09-05T11:30:20.478Z",
+          "notes": "null"
+        },
+        {
+          "id": "e414207d-9064-42ea-9407-b267e3c46c45@2025-09-26",
+          "teacherId": "b87fdb04-2fe1-45f8-a99c-02c34c694110",
+          "teacherUserName": "Ahmed Ehab",
+          "revDone": "العاديات والزلزلة والقارعة والتكاثر",
+          "revGrade": "6/10",
+          "time": "2025-09-26T12:01:59.691Z",
+          "notes": "null"
+        },
+        {
+          "id": "4ca62d92-ffe1-456f-9e8d-e984769d5b73@2025-09-26",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca398aa5",
+          "teacherUserName": "Mohamed Amr",
+          "memDone": " سورة النبأ من 18 إلى 30",
+          "time": "2025-09-26T12:21:25.451Z",
+          "notes": "null"
+        },
+        {
+          "id": "0f7406b7-9129-4edc-9ba6-738227eafacb@2025-10-03",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca398aa5",
+          "teacherUserName": "Mohamed Amr",
+          "memDone": "سورة النبأ من ٢٠ إلى ٤٠",
+          "memGrade": "2",
+          "time": "2025-10-03T11:17:18.649Z",
+          "notes": "null"
+        },
+        {
+          "id": "919f78e6-9310-48f9-be90-dd1d630c771e@2025-10-03",
+          "teacherId": "b87fdb04-2fe1-45f8-a99c-02c34c694110",
+          "teacherUserName": "Ahmed Ehab",
+          "revDone": "القارعة والتكاثر",
+          "revGrade": "7/10",
+          "time": "2025-10-03T11:26:37.607Z",
+          "notes": "null"
+        },
+        {
+          "id": "02d197a7-a134-4040-9c4d-02ed50b835ba@2025-10-17",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca398aa5",
+          "teacherUserName": "Mohamed Amr",
+          "memDone": "سورة النبأ من 23 إلى 30",
+          "memGrade": "7",
+          "time": "2025-10-17T11:05:48.510Z",
+          "notes": "null"
+        },
+        {
+          "id": "006b0b5c-d28b-4333-a26b-85be64ee7dc7@2025-10-17",
+          "teacherId": "b87fdb04-2fe1-45f8-a99c-02c34c694110",
+          "teacherUserName": "Ahmed Ehab",
+          "revDone": "602",
+          "time": "2025-10-17T11:14:26.728Z",
+          "notes": "null"
+        },
+        {
+          "id": "300e3b65-c8a2-4eb5-9203-cee0c585662f@2025-10-17",
+          "teacherId": "b87fdb04-2fe1-45f8-a99c-02c34c694110",
+          "teacherUserName": "Ahmed Ehab",
+          "revDone": "602",
+          "revGrade": "9.5/10",
+          "time": "2025-10-17T11:15:08.624Z",
+          "notes": "null"
+        },
+        {
+          "id": "b3d611eb-e3ea-49bf-b968-bdf53e91a167@2025-10-31",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca398aa5",
+          "teacherUserName": "Mohamed Amr",
+          "memDone": "سورة النبأ من ٢٣ ل ٣٠",
+          "memGrade": "٦/١٠",
+          "time": "2025-10-31T11:37:12.612Z",
+          "notes": "يجب مراجعة الايات"
+        },
+        {
+          "id": "83dcfc6a-a6f2-442e-b012-2c8e25bf4b84@2025-10-31",
+          "teacherId": "b87fdb04-2fe1-45f8-a99c-02c34c694110",
+          "teacherUserName": "Ahmed Ehab",
+          "revDone": "601",
+          "revGrade": "9/10",
+          "time": "2025-10-31T11:46:02.780Z",
+          "notes": "null"
+        },
+        {
+          "id": "861fb206-072e-42a0-8ef1-15e0352fc218@2025-12-05",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca399aa5",
+          "teacherUserName": "Marwan Ashraf2",
+          "memDone": "من اية ٢٣ ل ٣٠ من سورة النبا",
+          "memGrade": "٧/١٠",
+          "time": "2025-12-05T12:35:50.073Z",
+          "notes": "تم التعديل\nالحفظ الجديد: من اية ٣١ الى اخر سورة النبأ."
+        },
+        {
+          "id": "091682c2-a010-44cd-91ae-7167d16bebeb@2025-12-05",
+          "teacherId": "b87fdb04-2fe1-45f8-a99c-02c34c694110",
+          "teacherUserName": "Ahmed Ehab",
+          "revDone": "المسد",
+          "revGrade": "7/10",
+          "time": "2025-12-05T13:24:43.344Z",
+          "notes": "مراجعة قريش المرة القادمة"
+        },
+        {
+          "id": "5a19bd4a-4053-4e20-8994-5c73f8b41526@2025-12-19",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca399aa5",
+          "teacherUserName": "Marwan Ashraf2",
+          "memDone": "من اية ٣١ ل ٣٥ من سورة النبا",
+          "memGrade": "٩/١٠",
+          "time": "2025-12-19T12:39:28.961Z",
+          "notes": "تم التعديل\nالحفظ الجديد: من اية ٣٦ لاخر سورة النبا."
+        }
+      ]
+    },
+    {
+      "id": "22525387-ae80-4285-be2e-eff9b88bd1d2",
+      "logs": [
+        {
+          "id": "ea6effeb-499f-4b5d-a25f-8c858764cd75@2025-09-26",
+          "teacherId": "d38f0818-767c-4f3e-8f67-f9b62b40687f",
+          "teacherUserName": "Ammar Wagdy",
+          "revDone": "نصف عم",
+          "revGrade": "10/10",
+          "time": "2025-09-26T11:59:23.592Z",
+          "notes": "المراجعة\nتم التعديل\nجميع الحفظ: جزء عم\n"
+        },
+        {
+          "id": "1b1d4148-c1be-47b2-8de7-66c559f486d3@2025-09-26",
+          "teacherId": "d38f0818-767c-4f3e-8f67-f9b62b40687f",
+          "teacherUserName": "Ammar Wagdy",
+          "revDone": "حفظ : نصف الإنسان",
+          "revGrade": "10/10",
+          "time": "2025-09-26T12:00:45.447Z",
+          "notes": "الجديد\nتم التعديل\nجميع الحفظ: النصف الأخر \n"
+        },
+        {
+          "id": "443645e5-d6d8-4052-bff2-40d32764d9ba@2025-09-26",
+          "teacherId": "d38f0818-767c-4f3e-8f67-f9b62b40687f",
+          "teacherUserName": "Ammar Wagdy",
+          "time": "2025-09-26T12:11:27.405Z",
+          "notes": "تم التعديل\nجميع الحفظ:  حتى النصف الأخر من الإنسان\n"
+        },
+        {
+          "id": "19050b47-8c07-43bb-a8f1-424e8dbe8d7a@2025-10-03",
+          "teacherId": "d38f0818-767c-4f3e-8f67-f9b62b40687f",
+          "teacherUserName": "Ammar Wagdy",
+          "memDone": "القيامة",
+          "memGrade": "9.5/10",
+          "revDone": "نصف عم الأخر",
+          "revGrade": "10/10",
+          "time": "2025-10-03T12:04:54.781Z",
+          "notes": "تم التعديل\nجميع الحفظ: القيامة إلى الإنسان\nالحفظ الجديد: نصف الأخر من الإنسان."
+        },
+        {
+          "id": "41ec629c-7887-4fc4-8ec2-5fcd5ca1deb1@2025-10-03",
+          "teacherId": "d38f0818-767c-4f3e-8f67-f9b62b40687f",
+          "teacherUserName": "Ammar Wagdy",
+          "time": "2025-10-03T12:05:17.764Z",
+          "notes": "تم التعديل\nجميع الحفظ: القيامة إلى الأخر\n"
+        },
+        {
+          "id": "82204d9c-5984-44b1-a670-71b0f8112a03@2025-10-10",
+          "teacherId": "d38f0818-767c-4f3e-8f67-f9b62b40687f",
+          "teacherUserName": "Ammar Wagdy",
+          "memDone": "النص الأول من الإنسان",
+          "memGrade": "10/10",
+          "revDone": "جزء عم",
+          "revGrade": "7.5/10",
+          "time": "2025-10-10T12:56:42.750Z",
+          "notes": "تم التعديل\nالحفظ الجديد: نصف الأخر من الإنسان."
+        },
+        {
+          "id": "f254d169-b5f3-4954-a783-7ca74d3e19ab@2025-11-14",
+          "teacherId": "b87fdb04-2fe1-45f8-a99c-02c34c694110",
+          "teacherUserName": "Ahmed Ehab",
+          "revDone": "القيامة",
+          "time": "2025-11-14T14:31:56.949Z",
+          "notes": "مراجعة المراسلات المرة القادمة"
+        },
+        {
+          "id": "fa054477-6e0a-4433-8a73-23873b5f84e2@2025-11-14",
+          "teacherId": "b87fdb04-2fe1-45f8-a99c-02c34c694110",
+          "teacherUserName": "Ahmed Ehab",
+          "revDone": "المرسلات والقيامة",
+          "revGrade": "8/10",
+          "time": "2025-11-14T15:02:03.031Z",
+          "notes": "المرة القادمة الإنسان"
+        }
+      ]
+    },
+    {
+      "id": "23f9b7f5-2a19-493e-a23a-6cfd03688379",
+      "logs": [
+        {
+          "id": "61ea8192-eadc-490e-8071-894d97acac82@2025-08-29",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca398aa5",
+          "teacherUserName": "Mohamed Amr",
+          "memDone": "سورة الطارق ",
+          "memGrade": "لم يسمع",
+          "time": "2025-08-29T11:24:43.258Z",
+          "notes": "null"
+        },
+        {
+          "id": "1d404360-5a59-4dca-a8d8-29b3deb666c7@2025-08-29",
+          "teacherId": "b87fdb04-2fe1-45f8-a99c-02c34c694110",
+          "teacherUserName": "Ahmed Ehab",
+          "revDone": "602/603",
+          "revGrade": "3/10",
+          "time": "2025-08-29T11:44:05.261Z",
+          "notes": "بيغلط نفس الغلطات كل مرة"
+        },
+        {
+          "id": "7c03a1a8-2b79-4f5e-a841-2460bceeb4e9@2025-09-05",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca398aa5",
+          "teacherUserName": "Mohamed Amr",
+          "memDone": "سورة الطارق كاملة",
+          "memGrade": "٨",
+          "time": "2025-09-05T11:26:55.541Z",
+          "notes": "null"
+        },
+        {
+          "id": "6898407f-c7dc-43e7-9ee3-aa02c5149235@2025-09-12",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca398aa5",
+          "teacherUserName": "Mohamed Amr",
+          "memDone": "سورة الطارق كاملة مرة أخرى",
+          "memGrade": "3",
+          "time": "2025-09-12T11:45:08.872Z",
+          "notes": "null"
+        },
+        {
+          "id": "8285eac3-9902-4754-984e-4b3187083321@2025-09-12",
+          "teacherId": "b87fdb04-2fe1-45f8-a99c-02c34c694110",
+          "teacherUserName": "Ahmed Ehab",
+          "revDone": "603/602",
+          "revGrade": "5/10",
+          "time": "2025-09-12T11:59:16.363Z",
+          "notes": "مش بيحفظ ولا بيراجع"
+        },
+        {
+          "id": "22a151bf-0546-42ea-959b-a6717f57d42f@2025-09-26",
+          "teacherId": "b87fdb04-2fe1-45f8-a99c-02c34c694110",
+          "teacherUserName": "Ahmed Ehab",
+          "revDone": "602/603",
+          "revGrade": "8.5/10",
+          "time": "2025-09-26T12:08:16.987Z",
+          "notes": "null"
+        },
+        {
+          "id": "1cd232b6-28e1-4500-84f5-0f32ad19924c@2025-10-10",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca398aa5",
+          "teacherUserName": "Mohamed Amr",
+          "memDone": "سورة الطارق كاملة مرة أخرى",
+          "memGrade": "6",
+          "time": "2025-10-10T11:50:13.095Z",
+          "notes": "null"
+        }
+      ]
+    },
+    {
+      "id": "3d050d9c-c89f-4897-8a92-a279aad7281b",
+      "logs": [
+        {
+          "id": "a4abc22e-f669-4768-a9cb-81595f3f5f27@2025-08-29",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca398aa5",
+          "teacherUserName": "Mohamed Amr",
+          "memDone": " كاملة سورة الأعلى ",
+          "memGrade": "١٠",
+          "time": "2025-08-29T11:12:24.558Z",
+          "notes": "null"
+        },
+        {
+          "id": "b12f130a-aea4-46a6-8a7b-e0ed6d097c37@2025-09-05",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca398aa5",
+          "teacherUserName": "Mohamed Amr",
+          "memDone": "سورة الطارق",
+          "memGrade": "10",
+          "time": "2025-09-05T11:42:08.882Z",
+          "notes": "null"
+        },
+        {
+          "id": "6685e307-c66f-447f-b6ff-81f431a520ce@2025-09-05",
+          "teacherId": "b87fdb04-2fe1-45f8-a99c-02c34c694110",
+          "teacherUserName": "Ahmed Ehab",
+          "revDone": "الفاتحة و 604~599",
+          "revGrade": "8.5",
+          "time": "2025-09-05T11:45:46.444Z",
+          "notes": "null"
+        },
+        {
+          "id": "641f0445-5f18-4c22-b9b4-f520e64ad6d6@2025-09-05",
+          "teacherId": "b87fdb04-2fe1-45f8-a99c-02c34c694110",
+          "teacherUserName": "Ahmed Ehab",
+          "revDone": "البينة و 597،596",
+          "revGrade": "9.5",
+          "time": "2025-09-05T11:47:02.720Z",
+          "notes": "null"
+        },
+        {
+          "id": "dcc62add-c0d3-4c7d-8a0e-4135a4b53412@2025-09-12",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca398aa5",
+          "teacherUserName": "Mohamed Amr",
+          "memDone": "سورة البروج من ١ إلى ١٠",
+          "memGrade": "10",
+          "time": "2025-09-12T11:27:47.427Z",
+          "notes": "null"
+        },
+        {
+          "id": "6305d561-e1c5-4dbc-b141-a2d21be42026@2025-09-12",
+          "teacherId": "b87fdb04-2fe1-45f8-a99c-02c34c694110",
+          "teacherUserName": "Ahmed Ehab",
+          "revDone": "الشمس والليل والبلد",
+          "revGrade": "9/10",
+          "time": "2025-09-12T11:46:56.825Z",
+          "notes": "null"
+        },
+        {
+          "id": "34ddcbeb-76d9-4d6b-8a20-6cae0559f768@2025-09-26",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca398aa5",
+          "teacherUserName": "Mohamed Amr",
+          "memDone": "سورة البروج من ١٠ إلى آخرها",
+          "memGrade": "10",
+          "time": "2025-09-26T11:43:12.097Z",
+          "notes": "null"
+        },
+        {
+          "id": "e430d37f-d6a2-4262-b8ae-2e773700aa72@2025-09-26",
+          "teacherId": "b87fdb04-2fe1-45f8-a99c-02c34c694110",
+          "teacherUserName": "Ahmed Ehab",
+          "revDone": "الأعلى والطارق",
+          "revGrade": "5/10",
+          "time": "2025-09-26T12:03:31.427Z",
+          "notes": "null"
+        },
+        {
+          "id": "4da7027f-b5f2-4cf3-9834-6454ed4db8c4@2025-10-03",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca398aa5",
+          "teacherUserName": "Mohamed Amr",
+          "memDone": "سورة الانشقاق من ١ إلى٩",
+          "memGrade": "7.5",
+          "time": "2025-10-03T11:22:08.400Z",
+          "notes": "null"
+        },
+        {
+          "id": "6571f92a-a3c1-4b4c-bd6a-9ec99d3b7a02@2025-10-10",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca398aa5",
+          "teacherUserName": "Mohamed Amr",
+          "memDone": " سورة الانشقاق من ١٠ إلى ٢٥",
+          "memGrade": "8.5",
+          "time": "2025-10-10T11:46:13.467Z",
+          "notes": "null"
+        },
+        {
+          "id": "6f5202fb-dd51-4e4e-8ea4-bd61e9980acf@2025-10-17",
+          "teacherId": "b87fdb04-2fe1-45f8-a99c-02c34c694110",
+          "teacherUserName": "Ahmed Ehab",
+          "revDone": "البروج",
+          "revGrade": "5/10",
+          "time": "2025-10-17T11:13:52.141Z",
+          "notes": "null"
+        },
+        {
+          "id": "2aafe958-35e2-4c02-a527-141c4d04476c@2025-10-17",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca398aa5",
+          "teacherUserName": "Mohamed Amr",
+          "memDone": "سورة المطففين من ١ إلى ٩",
+          "memGrade": "8",
+          "time": "2025-10-17T11:30:24.896Z",
+          "notes": "null"
+        },
+        {
+          "id": "d5a10ef3-ed0d-4d87-a906-2737a15bedce@2025-10-24",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca398aa5",
+          "teacherUserName": "Mohamed Amr",
+          "memDone": "سورة المطففين من الآية١٨  إلى ٢٨",
+          "memGrade": "8",
+          "time": "2025-10-24T11:04:19.314Z",
+          "notes": "null"
+        },
+        {
+          "id": "db066d76-f268-4f34-9943-b73815871547@2025-10-24",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca398aa5",
+          "teacherUserName": "Mohamed Amr",
+          "memDone": "(مراجعة) سورة المطففين من الآية ١ إلى ١٧",
+          "memGrade": "(مراجعة) 9/10",
+          "time": "2025-10-24T11:06:13.638Z",
+          "notes": "null"
+        },
+        {
+          "id": "d2c8e31a-c313-4c2c-91ae-3879182a6cfd@2025-10-31",
+          "teacherId": "d38f0818-767c-4f3e-8f67-f9b62b40687f",
+          "teacherUserName": "Ammar Wagdy",
+          "memDone": "28 إلى 18 المطففين",
+          "memGrade": "8.5/10",
+          "revDone": "المطففين من 1 إلى 17",
+          "revGrade": "10/10",
+          "time": "2025-10-31T11:46:33.046Z",
+          "notes": "المراجعة بداية المطففين\nتم التعديل\nجميع الحفظ: ما وراء المطففين\nالحفظ الجديد: باقي المطففين."
+        },
+        {
+          "id": "24d2e623-671a-4068-8bab-2f54aef8d5d4@2025-10-31",
+          "teacherId": "b87fdb04-2fe1-45f8-a99c-02c34c694110",
+          "teacherUserName": "Ahmed Ehab",
+          "revDone": "604~600",
+          "revGrade": "7.5/10",
+          "time": "2025-10-31T11:46:50.172Z",
+          "notes": "null"
+        },
+        {
+          "id": "b5205814-7779-49c0-b228-1b95ef3aa26f@2025-11-07",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca399aa5",
+          "teacherUserName": "Marwan Ashraf2",
+          "memDone": "من ان الابرار لفي نعيم الى الاخر سورة المطففين",
+          "memGrade": "٨/١٠",
+          "revDone": "من اول المطففين الى ٢١",
+          "revGrade": "١٠/١٠",
+          "time": "2025-11-07T12:05:19.341Z",
+          "notes": "null"
+        },
+        {
+          "id": "9e8fbbc9-bdc6-4cbf-9281-cd49a8ad8dd9@2025-11-14",
+          "teacherId": "b87fdb04-2fe1-45f8-a99c-02c34c694110",
+          "teacherUserName": "Ahmed Ehab",
+          "revDone": "599/598",
+          "revGrade": "8/10",
+          "time": "2025-11-14T14:39:35.620Z",
+          "notes": "المرة القادمة مراجعة 597/596"
+        },
+        {
+          "id": "aea8137f-03d2-4349-814e-f7f9691efa4f@2025-11-14",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca399aa5",
+          "teacherUserName": "Marwan Ashraf2",
+          "memDone": "ايات ٨ و٩ من سورة المجادلة",
+          "memGrade": "٨/١٠",
+          "revDone": "مطلوب تسميع من اية ١ ل١١ من سورة الملك",
+          "revGrade": "٠/١٠",
+          "time": "2025-11-14T14:57:39.009Z",
+          "notes": "تم التعديل\nالحفظ الجديد: ايات ١٠ و١١ من سورة المجادلة."
+        },
+        {
+          "id": "139967a8-1af9-4ade-9e49-e26f12b03275@2025-11-14",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca399aa5",
+          "teacherUserName": "Marwan Ashraf2",
+          "memDone": "من ان الابرار لفي نعيم الى اخر المطففين",
+          "memGrade": "٩/١٠",
+          "time": "2025-11-14T15:00:04.276Z",
+          "notes": "تم التعديل\nالحفظ الجديد: اول ٨ ايات من سورة الانفطار."
+        },
+        {
+          "id": "e2114dc9-b60a-4a6c-bbb7-24d66e5ef4c9@2025-11-21",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca399aa5",
+          "teacherUserName": "Marwan Ashraf2",
+          "memDone": "اول ٨ ايات من سورة الانفطار",
+          "memGrade": "١٠/١٠",
+          "time": "2025-11-21T12:21:43.132Z",
+          "notes": "تم التعديل\nالحفظ الجديد: من اية ٩ ل١٩ من سورة الانفطار."
+        },
+        {
+          "id": "ff4bf60e-5948-4a16-a708-586e872484e6@2025-11-28",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca399aa5",
+          "teacherUserName": "Marwan Ashraf2",
+          "memDone": "من اية ٩ ل ١٩ من سورة الانفطار",
+          "memGrade": "١٠/١٠",
+          "time": "2025-11-28T11:34:55.518Z",
+          "notes": "تم التعديل\nالحفظ الجديد: اول ١٤ اية من سورة التكوير."
+        },
+        {
+          "id": "4cde8c67-687f-448c-9c04-9e61354806ce@2025-12-05",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca399aa5",
+          "teacherUserName": "Marwan Ashraf2",
+          "memDone": "من اية ١ ل ١٤ من سورة التكوير",
+          "memGrade": "٩/١٠",
+          "time": "2025-12-05T12:36:41.631Z",
+          "notes": "تم التعديل\nالحفظ الجديد: من اية ١٥ لاخر سورة التكوير."
+        },
+        {
+          "id": "64bc4379-9a06-4d81-b5e9-ce4964842709@2025-12-05",
+          "teacherId": "b87fdb04-2fe1-45f8-a99c-02c34c694110",
+          "teacherUserName": "Ahmed Ehab",
+          "revDone": "البلد والفجر",
+          "revGrade": "6.5/10",
+          "time": "2025-12-05T13:22:45.453Z",
+          "notes": "مراجعة الغاشية والأعلى والطارق المرة القادمة"
+        },
+        {
+          "id": "9f117422-3fa0-4c06-9221-8e83a88be312@2025-12-12",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca399aa5",
+          "teacherUserName": "Marwan Ashraf2",
+          "memDone": "من اية ١٥ لاخر سورة التكوير",
+          "memGrade": "٩/١٠",
+          "time": "2025-12-12T12:32:24.657Z",
+          "notes": "تم التعديل\nالحفظ الجديد: اول ١٦ اية من سورة عبس."
+        }
+      ]
+    },
+    {
+      "id": "441fba6e-0a0a-4e29-8537-6bb42003d510",
+      "logs": [
+        {
+          "id": "84605e01-70c3-4915-af18-1b98ff010585@2025-08-29",
+          "teacherId": "b87fdb04-2fe1-45f8-a99c-02c34c694110",
+          "teacherUserName": "Ahmed Ehab",
+          "revDone": "602/601",
+          "revGrade": "10/10",
+          "time": "2025-08-29T11:45:06.048Z",
+          "notes": "null"
+        }
+      ]
+    },
+    {
+      "id": "4ba00176-2315-4edc-a25c-c3711b835fbc",
+      "logs": [
+        {
+          "id": "b7a2bc3b-a553-4563-9fcf-11192747326e@2025-10-10",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca398aa5",
+          "teacherUserName": "Mohamed Amr",
+          "memDone": "سورة الانشقاق من ١ إلى ٩",
+          "memGrade": "6",
+          "time": "2025-10-10T11:53:18.570Z",
+          "notes": "null"
+        }
+      ]
+    },
+    {
+      "id": "5f8e7b93-0148-4a76-89cd-ef235f283301",
+      "logs": [
+        {
+          "id": "35b195bd-878a-4deb-a7ad-e02da4a5b593@2025-08-22",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca398aa5",
+          "teacherUserName": "Mohamed Amr",
+          "memDone": "من ١٠ إلى ٢٢ و التسميع لكل السورة ",
+          "memGrade": "8.5",
+          "time": "2025-08-22T12:18:40.991Z",
+          "notes": "null"
+        },
+        {
+          "id": "8a62516c-965a-4775-ad5b-ef17ea0f230e@2025-09-12",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca398aa5",
+          "teacherUserName": "Mohamed Amr",
+          "memDone": "سورة البروج كاملة",
+          "memGrade": "__",
+          "time": "2025-09-12T11:50:29.221Z",
+          "notes": "null"
+        },
+        {
+          "id": "369ed996-78ec-45ec-8743-74ded485f5a0@2025-09-26",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca398aa5",
+          "teacherUserName": "Mohamed Amr",
+          "memDone": "سور الانشقاق إلى ١٠",
+          "memGrade": "10",
+          "time": "2025-09-26T11:50:25.309Z",
+          "notes": "null"
+        },
+        {
+          "id": "7d38c364-10f5-4268-b1ed-7a4f52b8846a@2025-10-03",
+          "teacherId": "b87fdb04-2fe1-45f8-a99c-02c34c694110",
+          "teacherUserName": "Ahmed Ehab",
+          "revDone": "البلد",
+          "revGrade": "8/10",
+          "time": "2025-10-03T11:27:23.485Z",
+          "notes": "null"
+        },
+        {
+          "id": "60aa1a4d-7784-4a1d-a867-a88b2b8f321d@2025-10-03",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca398aa5",
+          "teacherUserName": "Mohamed Amr",
+          "memDone": "سورة الانشقاق من ١ إلى ٩",
+          "memGrade": "لم يتم تسميع",
+          "time": "2025-10-03T11:38:40.660Z",
+          "notes": "null"
+        },
+        {
+          "id": "60a7871f-4905-4b7d-b5ac-938cb8212449@2025-10-10",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca398aa5",
+          "teacherUserName": "Mohamed Amr",
+          "memDone": "سورة الانشقاق من ١ إلى الكهف مرة أخرى",
+          "memGrade": "6",
+          "time": "2025-10-10T11:59:22.867Z",
+          "notes": "null"
+        },
+        {
+          "id": "8f84ea81-4a8d-4b86-a6ec-c912d0e50d5b@2025-10-31",
+          "teacherId": "d38f0818-767c-4f3e-8f67-f9b62b40687f",
+          "teacherUserName": "Ammar Wagdy",
+          "memDone": "البروج",
+          "memGrade": "10/10",
+          "revDone": "الضحى و الشرح",
+          "revGrade": "10/10",
+          "time": "2025-10-31T11:14:50.124Z",
+          "notes": "تم التعديل\nجميع الحفظ: ما وراء الإنشقاق\nالحفظ الجديد: الإنشقاق."
+        },
+        {
+          "id": "9b0c5457-8e9c-40e9-955f-cd5cf62cd5a1@2025-10-31",
+          "teacherId": "d38f0818-767c-4f3e-8f67-f9b62b40687f",
+          "teacherUserName": "Ammar Wagdy",
+          "time": "2025-10-31T11:16:54.078Z",
+          "notes": "مراجعة الشمس"
+        },
+        {
+          "id": "6a6f3464-f955-45fa-bbb2-f26d6e47d3c6@2025-11-07",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca399aa5",
+          "teacherUserName": "Marwan Ashraf2",
+          "memDone": "البروج واول ٦ ايات من الانشقاق",
+          "memGrade": "١٠/١٠",
+          "revDone": "الضحى، الشرح، والشمس",
+          "revGrade": "١٠/١٠",
+          "time": "2025-11-07T12:06:49.080Z",
+          "notes": "null"
+        },
+        {
+          "id": "3cbedb2e-ca6f-4778-9638-dac6aebe1f9d@2025-12-26",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca399aa5",
+          "teacherUserName": "Marwan Ashraf2",
+          "time": "2025-12-26T12:59:42.780Z",
+          "notes": "تم التعديل\nالحفظ الجديد: من ٦ ل ١٥ من سورة الانشقاق."
+        }
+      ]
+    },
+    {
+      "id": "600d2da5-8356-47af-a01c-16c3d6450d42",
+      "logs": [
+        {
+          "id": "4eafd4b8-83ac-413b-901e-04846095f811@2025-08-22",
+          "teacherId": "d38f0818-767c-4f3e-8f67-f9b62b40687f",
+          "teacherUserName": "Ammar Wagdy",
+          "revDone": "قريش إلى الناس",
+          "revGrade": "10/10",
+          "time": "2025-08-22T12:54:45.112Z",
+          "notes": "null"
+        },
+        {
+          "id": "91787b17-a835-4384-8635-6e6376ec240a@2025-08-22",
+          "teacherId": "d38f0818-767c-4f3e-8f67-f9b62b40687f",
+          "teacherUserName": "Ammar Wagdy",
+          "time": "2025-08-22T12:55:19.326Z",
+          "notes": "المراجعة اقريش إلى الناس"
+        }
+      ]
+    },
+    {
+      "id": "6f316354-a04b-4ff4-abac-bb53fec7b72d",
+      "logs": [
+        {
+          "id": "b887747c-4175-4f6e-841e-e240b542c94c@2025-08-22",
+          "teacherId": "d38f0818-767c-4f3e-8f67-f9b62b40687f",
+          "teacherUserName": "Ammar Wagdy",
+          "revDone": "الصفحة الأخيرة",
+          "revGrade": "9/10",
+          "time": "2025-08-22T12:41:32.568Z",
+          "notes": "مراجعة الصفحة الأخيرة"
+        },
+        {
+          "id": "c366829a-d7a3-4d49-86c6-ba1b41fa0802@2025-09-12",
+          "teacherId": "6b5f8e2e-396e-4bff-afde-b47d02e6e789",
+          "teacherUserName": "Abd-ElRhman Wagdy",
+          "memDone": "من سورة المسد إلى سورة الناس",
+          "memGrade": "10/10",
+          "time": "2025-09-12T11:50:16.052Z",
+          "notes": "تم التعديل\nالحفظ الجديد: سورة النصر."
+        },
+        {
+          "id": "6b8c26b3-e91a-41da-9269-6061acbd0b76@2025-09-26",
+          "teacherId": "d38f0818-767c-4f3e-8f67-f9b62b40687f",
+          "teacherUserName": "Ammar Wagdy",
+          "revDone": "حفظ النصر مراجعة الصفحة الأخيرة",
+          "revGrade": "10/10",
+          "time": "2025-09-26T12:15:12.202Z",
+          "notes": "الجديد المسد المراجعة النصر"
+        },
+        {
+          "id": "3e23d39d-7d4d-4910-89cd-76cd2d0d4502@2025-10-10",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca398aa5",
+          "teacherUserName": "Mohamed Amr",
+          "memDone": "مروان: سورة المسد حفظا وسورة النصر مراجعة",
+          "memGrade": "٩/١٠",
+          "time": "2025-10-10T12:31:44.800Z",
+          "notes": "تم التعديل\nالحفظ الجديد: سورة الكافرون."
+        }
+      ]
+    },
+    {
+      "id": "71115ec5-7e70-4c4b-b9b0-012afeb38c4f",
+      "logs": [
+        {
+          "id": "7e6b858e-5018-4a38-8638-d3309af29250@2025-08-22",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca398aa5",
+          "teacherUserName": "Mohamed Amr",
+          "memDone": "سورة الصف من آية ١ إلى آية ٧",
+          "memGrade": "10",
+          "time": "2025-08-22T12:44:01.020Z",
+          "notes": "null"
+        },
+        {
+          "id": "e15f1173-a0e0-496c-8418-64e74aa3d909@2025-08-29",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca398aa5",
+          "teacherUserName": "Mohamed Amr",
+          "memDone": "سورة الصف من ٨ إلى ١٢",
+          "memGrade": "10",
+          "time": "2025-08-29T11:32:46.892Z",
+          "notes": "null"
+        },
+        {
+          "id": "da9af0e2-ee9d-49e9-9a37-c5f2580eae18@2025-08-29",
+          "teacherId": "b87fdb04-2fe1-45f8-a99c-02c34c694110",
+          "teacherUserName": "Ahmed Ehab",
+          "revDone": "سورة نوح",
+          "revGrade": "9/10",
+          "time": "2025-08-29T11:45:53.655Z",
+          "notes": "null"
+        },
+        {
+          "id": "423bd94d-eebd-43d9-804f-217d897c0992@2025-09-05",
+          "teacherId": "b87fdb04-2fe1-45f8-a99c-02c34c694110",
+          "teacherUserName": "Ahmed Ehab",
+          "revDone": "الإنسان",
+          "revGrade": "5/10",
+          "time": "2025-09-05T12:02:29.520Z",
+          "notes": "المرسلات المرة الجاية"
+        },
+        {
+          "id": "c29563d7-d58e-4876-ae9b-15486db0bc97@2025-10-24",
+          "teacherId": "d38f0818-767c-4f3e-8f67-f9b62b40687f",
+          "teacherUserName": "Ammar Wagdy",
+          "memDone": "أواخر الممتحنة ",
+          "memGrade": "8/10",
+          "revDone": "جزء عم ومراجعة نص تبارك",
+          "revGrade": "9/10",
+          "time": "2025-10-24T11:21:45.767Z",
+          "notes": "تم التعديل\nجميع الحفظ: الممتحنة إلى الناس\nالحفظ الجديد: بداية الحشر."
+        }
+      ]
+    },
+    {
+      "id": "73da38bd-28c0-4e19-aef4-f36af9e50ce6",
+      "logs": [
+        {
+          "id": "6777b1cd-28a1-4cb9-9975-d5dc76513031@2025-08-22",
+          "teacherId": "d38f0818-767c-4f3e-8f67-f9b62b40687f",
+          "teacherUserName": "Ammar Wagdy",
+          "revDone": "القارعة إلى الناس",
+          "revGrade": "10/10",
+          "time": "2025-08-22T12:32:18.940Z",
+          "notes": "التركيز على التشكيل\nالقارعة إلى الناس "
+        },
+        {
+          "id": "05c6123d-5af2-42e5-8392-db9d615181c4@2025-08-29",
+          "teacherId": "6b5f8e2e-396e-4bff-afde-b47d02e6e789",
+          "teacherUserName": "Abd-ElRhman Wagdy",
+          "memDone": "العاديات",
+          "memGrade": "10/10",
+          "time": "2025-08-29T11:33:01.731Z",
+          "notes": "null"
+        },
+        {
+          "id": "f23e6a65-862d-4c1f-9ee4-f83cedc7db45@2025-08-29",
+          "teacherId": "d38f0818-767c-4f3e-8f67-f9b62b40687f",
+          "teacherUserName": "Ammar Wagdy",
+          "revDone": "القارعة للناس",
+          "revGrade": "10",
+          "time": "2025-08-29T11:44:15.197Z",
+          "notes": "العاديات للناس"
+        },
+        {
+          "id": "a1b6d370-1bef-415c-92b3-587a15c263c6@2025-09-05",
+          "teacherId": "d38f0818-767c-4f3e-8f67-f9b62b40687f",
+          "teacherUserName": "Ammar Wagdy",
+          "revDone": "البينة ",
+          "revGrade": "0/10",
+          "time": "2025-09-05T11:44:37.134Z",
+          "notes": "البينة و إعادة السورة من 1 إلى 5"
+        },
+        {
+          "id": "c0677f68-8964-4583-9ed5-92deaaa83577@2025-09-12",
+          "teacherId": "6b5f8e2e-396e-4bff-afde-b47d02e6e789",
+          "teacherUserName": "Abd-ElRhman Wagdy",
+          "memDone": "البينة من ١ الى ٤",
+          "memGrade": "8/10",
+          "time": "2025-09-12T12:03:07.906Z",
+          "notes": "تم التعديل\nالحفظ الجديد: من ٥ الى ٨ سورة البينة."
+        },
+        {
+          "id": "172b7357-d514-46dc-a53d-a06033670bc0@2025-09-12",
+          "teacherId": "d38f0818-767c-4f3e-8f67-f9b62b40687f",
+          "teacherUserName": "Ammar Wagdy",
+          "revDone": "العاديات للناس ",
+          "revGrade": "10/10",
+          "time": "2025-09-12T12:26:08.890Z",
+          "notes": "الزلزلة إلى الناس\nتم التعديل\nجميع الحفظ: البينة إلى الناس\n"
+        },
+        {
+          "id": "772ad3b2-7b49-4937-a5a4-2629eb926b79@2025-09-26",
+          "teacherId": "d38f0818-767c-4f3e-8f67-f9b62b40687f",
+          "teacherUserName": "Ammar Wagdy",
+          "revDone": "ما وراء البينة ",
+          "revGrade": "10/10",
+          "time": "2025-09-26T12:10:29.630Z",
+          "notes": "المراجعة"
+        },
+        {
+          "id": "d47937a1-58e1-46b7-b970-d8f61093955f@2025-10-10",
+          "teacherId": "b87fdb04-2fe1-45f8-a99c-02c34c694110",
+          "teacherUserName": "Ahmed Ehab",
+          "revDone": "البينة من 1 ل 4",
+          "revGrade": "7/10",
+          "time": "2025-10-10T12:50:54.935Z",
+          "notes": "null"
+        },
+        {
+          "id": "d0883dd3-b55c-464d-a754-9a2a5f1ac90b@2025-10-17",
+          "teacherId": "d38f0818-767c-4f3e-8f67-f9b62b40687f",
+          "teacherUserName": "Ammar Wagdy",
+          "revDone": "البينة للأخر",
+          "revGrade": "9.5/10",
+          "time": "2025-10-17T11:19:18.323Z",
+          "notes": "null"
+        }
+      ]
+    },
+    {
+      "id": "8c03dc59-4701-4f88-a47b-07bc5cea0e9c",
+      "logs": [
+        {
+          "id": "5f221fa4-cb06-4061-b3a0-55f9b924277d@2025-12-26",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca399aa5",
+          "teacherUserName": "Marwan Ashraf2",
+          "memDone": "من ١ ل ٥ من سورة البينة",
+          "memGrade": "٨/١٠",
+          "time": "2025-12-26T13:00:20.785Z",
+          "notes": "تم التعديل\nالحفظ الجديد: من اية ٦ لاخر سورة البينة."
+        }
+      ]
+    },
+    {
+      "id": "9a672d5d-dfa9-4b98-ab5f-a3057bb5449e",
+      "logs": [
+        {
+          "id": "5eeb1be8-ed12-442c-97fe-aa8eda575322@2025-08-22",
+          "teacherId": "d38f0818-767c-4f3e-8f67-f9b62b40687f",
+          "teacherUserName": "Ammar Wagdy",
+          "revDone": "البروج إلى الناس",
+          "revGrade": "6.5/10",
+          "time": "2025-08-22T12:20:06.709Z",
+          "notes": "التركيز على الذال \nالتركيز على التشكيل\nالأعلى إلى الناس"
+        },
+        {
+          "id": "6ae14042-f750-4b91-a15d-a969c74a1a51@2025-08-29",
+          "teacherId": "6b5f8e2e-396e-4bff-afde-b47d02e6e789",
+          "teacherUserName": "Abd-ElRhman Wagdy",
+          "memDone": "الحشر من 20 ل 24",
+          "memGrade": "9/10",
+          "time": "2025-08-29T11:32:27.296Z",
+          "notes": "تأكيد على التجويد خصوصًا الإدغام والتشكيل"
+        },
+        {
+          "id": "6eaf714c-2b18-4d57-9f93-d237a2c6f69f@2025-08-29",
+          "teacherId": "d38f0818-767c-4f3e-8f67-f9b62b40687f",
+          "teacherUserName": "Ammar Wagdy",
+          "revDone": "الأعلى",
+          "revGrade": "6/10",
+          "time": "2025-08-29T11:51:46.121Z",
+          "notes": "جزء عم"
+        },
+        {
+          "id": "fbbc407c-bf3d-47ee-88fd-7136b6843a58@2025-09-05",
+          "teacherId": "d38f0818-767c-4f3e-8f67-f9b62b40687f",
+          "teacherUserName": "Ammar Wagdy",
+          "revDone": "جزء عم",
+          "revGrade": "6.5/10",
+          "time": "2025-09-05T11:40:28.611Z",
+          "notes": "المرسلات ل نوح"
+        },
+        {
+          "id": "176c4ec0-c84c-4f7b-8cd9-89bc65dc6f09@2025-09-05",
+          "teacherId": "d38f0818-767c-4f3e-8f67-f9b62b40687f",
+          "teacherUserName": "Ammar Wagdy",
+          "revDone": "العاديات للناس ",
+          "revGrade": "9/10",
+          "time": "2025-09-05T11:50:18.612Z",
+          "notes": "العاديات إلى الناس "
+        },
+        {
+          "id": "bf68de64-9ad4-44c3-a9f6-a3944f514d79@2025-09-05",
+          "teacherId": "d38f0818-767c-4f3e-8f67-f9b62b40687f",
+          "teacherUserName": "Ammar Wagdy",
+          "revDone": "الحفظ من 1 إلى 3 المجادلة",
+          "revGrade": "6.5/10",
+          "time": "2025-09-05T11:54:41.280Z",
+          "notes": "المجادلة من 1 إلى 6"
+        },
+        {
+          "id": "719a971d-b315-4bf9-a7a9-58dfa11cb33c@2025-09-12",
+          "teacherId": "d38f0818-767c-4f3e-8f67-f9b62b40687f",
+          "teacherUserName": "Ammar Wagdy",
+          "revDone": "جزء عم",
+          "revGrade": "3/10",
+          "time": "2025-09-12T12:09:43.265Z",
+          "notes": "نوح إلى المرسلات\nتم التعديل\nجميع الحفظ: 3 أجزاء\n"
+        }
+      ]
+    },
+    {
+      "id": "a5b4ad36-31a9-4de3-9dcd-d9e361b3426c",
+      "logs": [
+        {
+          "id": "fe2af409-6937-4720-8679-eae563036400@2025-08-22",
+          "teacherId": "d38f0818-767c-4f3e-8f67-f9b62b40687f",
+          "teacherUserName": "Ammar Wagdy",
+          "revDone": "العاديات",
+          "revGrade": "3/10",
+          "time": "2025-08-22T12:38:07.392Z",
+          "notes": "يراجع كويس \nيجيب ورقته "
+        },
+        {
+          "id": "affe4861-3acc-40b5-b983-0fc73b8cc83f@2025-09-12",
+          "teacherId": "d38f0818-767c-4f3e-8f67-f9b62b40687f",
+          "teacherUserName": "Ammar Wagdy",
+          "revDone": "العاديات",
+          "revGrade": "0.5/10",
+          "time": "2025-09-12T12:10:40.198Z",
+          "notes": "العاديات"
+        },
+        {
+          "id": "4eeb8765-acb6-40c9-b8d7-fcbcb438a36f@2025-09-26",
+          "teacherId": "d38f0818-767c-4f3e-8f67-f9b62b40687f",
+          "teacherUserName": "Ammar Wagdy",
+          "revDone": "العاديات الحفظ",
+          "revGrade": "6/10",
+          "time": "2025-09-26T12:01:43.880Z",
+          "notes": "الجديد\nتم التعديل\nجميع الحفظ: النصف الأخر من العاديات\n"
+        },
+        {
+          "id": "8f8ea98f-ccce-4e7c-b15f-2f7762f4fc63@2025-09-26",
+          "teacherId": "d38f0818-767c-4f3e-8f67-f9b62b40687f",
+          "teacherUserName": "Ammar Wagdy",
+          "revDone": "ما وراء العاديات",
+          "revGrade": "6.5/10",
+          "time": "2025-09-26T12:02:39.126Z",
+          "notes": "المراجعة\nتم التعديل\nجميع الحفظ: ما وراء العاديات\n"
+        },
+        {
+          "id": "562542c7-7020-4089-a210-1cb681090fc1@2025-10-31",
+          "teacherId": "d38f0818-767c-4f3e-8f67-f9b62b40687f",
+          "teacherUserName": "Ammar Wagdy",
+          "memDone": "العاديات",
+          "memGrade": "7.5/10",
+          "revDone": "ما وراء العاديات",
+          "revGrade": "10/10",
+          "time": "2025-10-31T11:55:12.444Z",
+          "notes": "المراجعة العاديات\nتم التعديل\nجميع الحفظ: العاديات وما وراءها\nالحفظ الجديد: البينه من 1 إلى 4."
+        }
+      ]
+    },
+    {
+      "id": "b7a94403-1171-450f-9be7-52e6df2a1900",
+      "logs": [
+        {
+          "id": "308fc5e7-3a56-4fec-81f2-e868a7c361a4@2025-10-24",
+          "teacherId": "d38f0818-767c-4f3e-8f67-f9b62b40687f",
+          "teacherUserName": "Ammar Wagdy",
+          "memDone": "أول صفحة من الملك",
+          "memGrade": "10/10",
+          "revDone": "من الأعلى إلى الناس",
+          "revGrade": "8/10",
+          "time": "2025-10-24T11:23:56.918Z",
+          "notes": "مراجعة سورة نوح\nتم التعديل\nجميع الحفظ: من نوح إلى الناس\nالحفظ الجديد: الصفحة الثانية من الملك."
+        }
+      ]
+    },
+    {
+      "id": "db4e0b85-4a51-4cf8-b509-64c4037a9dd3",
+      "logs": [
+        {
+          "id": "2f32252d-87fd-406c-a44d-f98fc65de30a@2025-08-29",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca398aa5",
+          "teacherUserName": "Mohamed Amr",
+          "memDone": "سورة الطلاق من ١ إلى ٣",
+          "memGrade": "لاتسميع",
+          "time": "2025-08-29T11:42:19.958Z",
+          "notes": "null"
+        },
+        {
+          "id": "381f4ccd-c870-4a5e-a0da-46fa2b0992f2@2025-08-29",
+          "teacherId": "b87fdb04-2fe1-45f8-a99c-02c34c694110",
+          "teacherUserName": "Ahmed Ehab",
+          "revDone": "604~600",
+          "revGrade": "9/10",
+          "time": "2025-08-29T11:47:02.677Z",
+          "notes": "null"
+        },
+        {
+          "id": "e2c0cf44-0075-428c-8d6a-6ac21a17741e@2025-09-05",
+          "teacherId": "b87fdb04-2fe1-45f8-a99c-02c34c694110",
+          "teacherUserName": "Ahmed Ehab",
+          "revDone": "601،600",
+          "revGrade": "7/10",
+          "time": "2025-09-05T11:31:27.253Z",
+          "notes": "null"
+        },
+        {
+          "id": "82b19f17-94be-4da7-bc90-e3679eccbda3@2025-09-26",
+          "teacherId": "b87fdb04-2fe1-45f8-a99c-02c34c694110",
+          "teacherUserName": "Ahmed Ehab",
+          "revDone": "الشمس والليل",
+          "revGrade": "7/10",
+          "time": "2025-09-26T12:13:54.077Z",
+          "notes": "null"
+        },
+        {
+          "id": "49ef2c52-5bc1-46a5-b204-0ca0d7dd49dc@2025-09-26",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca398aa5",
+          "teacherUserName": "Mohamed Amr",
+          "memDone": "سورة الطلاق الآية ٢ و ٣",
+          "memGrade": "10",
+          "time": "2025-09-26T12:19:50.041Z",
+          "notes": "null"
+        },
+        {
+          "id": "dadaad8d-6f52-4981-ab69-bcdef284d3e4@2025-10-03",
+          "teacherId": "b87fdb04-2fe1-45f8-a99c-02c34c694110",
+          "teacherUserName": "Ahmed Ehab",
+          "revDone": "الفجر",
+          "revGrade": "6/10",
+          "time": "2025-10-03T11:45:50.118Z",
+          "notes": "null"
+        },
+        {
+          "id": "a76d3210-20ac-4ac6-ab08-957f6885c186@2025-10-17",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca398aa5",
+          "teacherUserName": "Mohamed Amr",
+          "memDone": "سورة الطلاق الآية 4و ٥",
+          "memGrade": "7",
+          "time": "2025-10-17T11:01:53.435Z",
+          "notes": "null"
+        },
+        {
+          "id": "c9f4dbf3-dbf5-4466-b0cb-fc712903bfdd@2025-10-17",
+          "teacherId": "b87fdb04-2fe1-45f8-a99c-02c34c694110",
+          "teacherUserName": "Ahmed Ehab",
+          "revDone": "البلد",
+          "revGrade": "8/10",
+          "time": "2025-10-17T11:15:34.332Z",
+          "notes": "null"
+        },
+        {
+          "id": "48f510bd-2565-469b-ba71-3a5138745a76@2025-10-31",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca398aa5",
+          "teacherUserName": "Mohamed Amr",
+          "memDone": "قراءة ايات ٤ و٥ من سورة الطلاق",
+          "memGrade": "٠/١٠",
+          "time": "2025-10-31T11:41:21.836Z",
+          "notes": "null"
+        },
+        {
+          "id": "fbd09244-4cef-45fd-87ea-370325079bbb@2025-10-31",
+          "teacherId": "b87fdb04-2fe1-45f8-a99c-02c34c694110",
+          "teacherUserName": "Ahmed Ehab",
+          "revDone": "الفجر",
+          "revGrade": "9/10",
+          "time": "2025-10-31T11:47:31.632Z",
+          "notes": "null"
+        },
+        {
+          "id": "35503915-ae2c-41a9-b9a4-573c78917560@2025-12-05",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca399aa5",
+          "teacherUserName": "Marwan Ashraf2",
+          "memDone": "اية ٤ و٥ من سورة الطلاق",
+          "memGrade": "٩/١٠",
+          "time": "2025-12-05T12:37:19.366Z",
+          "notes": "تم التعديل\nالحفظ الجديد: اية ٦ و٧ من سورة الطلاق."
+        },
+        {
+          "id": "f7b43c19-4121-4237-8431-d204a92c7884@2025-12-05",
+          "teacherId": "b87fdb04-2fe1-45f8-a99c-02c34c694110",
+          "teacherUserName": "Ahmed Ehab",
+          "revDone": "الغاشية",
+          "revGrade": "9.5/10",
+          "time": "2025-12-05T13:23:50.465Z",
+          "notes": "مراجعة الطارق والأعلى المرة القادمة"
+        },
+        {
+          "id": "b668eca0-9d33-4fb7-8b57-c9932ec5ec15@2025-12-19",
+          "teacherId": "b87fdb04-2fe1-45f8-a99c-02c34c694110",
+          "teacherUserName": "Ahmed Ehab",
+          "revDone": "الطارق والأعلى",
+          "revGrade": "10/10",
+          "time": "2025-12-19T12:39:13.374Z",
+          "notes": "\n\n\n"
+        },
+        {
+          "id": "16cce027-9211-4fcc-b41e-7a5f9a600037@2025-12-19",
+          "teacherId": "2497f470-523a-4c89-a928-8968ca399aa5",
+          "teacherUserName": "Marwan Ashraf2",
+          "memDone": "لا شيء",
+          "memGrade": "٠/١٠",
+          "time": "2025-12-19T12:40:11.598Z",
+          "notes": "تم التعديل\nالحفظ الجديد: اية ٦ و٧ من سورة الطلاق."
+        }
+      ]
+    },
+    {
+      "id": "ddc24872-f9ad-4b38-bfb1-d76c753844ee",
+      "logs": [
+        {
+          "id": "8261d4d1-a6b4-404d-bef3-da850e8ec515@2025-08-22",
+          "teacherId": "d38f0818-767c-4f3e-8f67-f9b62b40687f",
+          "teacherUserName": "Ammar Wagdy",
+          "revDone": "البروج إلى الناس",
+          "revGrade": "9/10",
+          "time": "2025-08-22T13:00:17.185Z",
+          "notes": "ينقل في المراجعه\nالبروج إلى الناس"
+        },
+        {
+          "id": "0a128306-fa54-4223-8162-01c1b2ec1411@2025-10-10",
+          "teacherId": "d38f0818-767c-4f3e-8f67-f9b62b40687f",
+          "teacherUserName": "Ammar Wagdy",
+          "memDone": "بداية الإنشقاق",
+          "memGrade": "9.5/10",
+          "time": "2025-10-10T12:24:52.493Z",
+          "notes": "تم التعديل\nالحفظ الجديد: المطففين من 1 إلى 17."
+        }
+      ]
+    },
+    {
+      "id": "60a37f02-6dc7-4d04-b50a-2417ce0da6dd",
+      "logs": []
+    },
+    {
+      "id": "b1a6d201-d4e0-4101-b71e-d3252f11bbc7",
+      "logs": []
+    },
+    {
+      "id": "cd898c70-2dc8-4327-b515-c204bfade07c",
+      "logs": []
+    },
+    {
+      "id": "f635ef61-4597-4a77-ae00-43df01373882",
+      "logs": []
+    }
+  ],
+  "teachers": [
+    {
+      "userName": "Mohamed Ashraf",
+      "password": "Mohamed@Ashraf_5",
+      "type": "admin",
+      "id": "e56cb879-56f9-4cbe-8535-edf20da6138b"
+    },
+    {
+      "userName": "Marwan Ashraf",
+      "password": "Marwan@Ashraf_9",
+      "type": "admin",
+      "id": "1cb848b3-93d0-4efe-a9d7-dba57e584b1c"
+    },
+    {
+      "userName": "Mohamed Amr",
+      "password": "Mohamed@Amr_5",
+      "type": "admin",
+      "id": "2497f470-523a-4c89-a928-8968ca398aa5"
+    },
+    {
+      "userName": "Marwan Ashraf2",
+      "password": "Marwan@Ashraf2_5",
+      "type": "Mem-Rev",
+      "id": "2497f470-523a-4c89-a928-8968ca399aa5"
+    },
+    {
+      "userName": "Abd-ElRhman Wagdy",
+      "password": "Abd-ElRhman@Wagdy_3",
+      "type": "Mem",
+      "id": "6b5f8e2e-396e-4bff-afde-b47d02e6e789"
+    },
+    {
+      "userName": "Ahmed Ehab",
+      "password": "Ahmed@Ehab_2",
+      "type": "Rev",
+      "id": "b87fdb04-2fe1-45f8-a99c-02c34c694110"
+    },
+    {
+      "userName": "Ammar Wagdy",
+      "password": "Ammar@Wagdy_7",
+      "type": "Mem-Rev",
+      "id": "d38f0818-767c-4f3e-8f67-f9b62b40687f"
+    }
+  ],
+  "attendance": [
+    {
+      "id": "2025-01-01",
+      "ids": ["ddc24872-f9ad-4b38-bfb1-d76c753844ee"]
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
